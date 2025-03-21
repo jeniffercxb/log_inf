@@ -6,3 +6,7 @@ https://www.canva.com/design/DAGfsUlBczg/BROQnyf5mkk6I0C2erJTCw/view?utm_content
 ### Segunda Atividade..Excel 
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/jeniffer_nunes01_fatec_sp_gov_br/Documents/Pasta.xlsx?d=wf93cebb1b0074d09a11f28c26e68a0c0&csf=1&web=1&e=fLz66A
 ![image](https://github.com/user-attachments/assets/2054d679-6808-4540-abfe-8758aa36c3c3)
+
+#### Terceira Atividade Excel 
+https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20251/Shared%20Documents/General/Qtde%20alunos%20Informatica%2014-03-25.xlsx?d=w6e04af3c62e141e986646598a6ab41f4&csf=1&web=1&e=FJ4IlK
+![Uploading image.png…]()
