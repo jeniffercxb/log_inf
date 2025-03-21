@@ -9,4 +9,4 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/jeniffer_nunes01_fatec_sp_go
 
 #### Terceira Atividade Excel 
 https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20251/Shared%20Documents/General/Qtde%20alunos%20Informatica%2014-03-25.xlsx?d=w6e04af3c62e141e986646598a6ab41f4&csf=1&web=1&e=FJ4IlK
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ba66331f-6246-4824-9f2b-8e2ec67f873d)
